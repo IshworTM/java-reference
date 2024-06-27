@@ -1,5 +1,5 @@
-package ChapterThree.Lab5;
-import ChapterThree.Lab5.Reference;
+package ChapterThree.Lab5.src;
+import ChapterThree.Lab5.src.Reference;
 
 public class PassByReference {
 
