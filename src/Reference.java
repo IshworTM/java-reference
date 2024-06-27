@@ -1,4 +1,4 @@
-package ChapterThree.Lab5;
+package ChapterThree.Lab5.src;
 
 public class Reference {
     private String name;
